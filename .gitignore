@@ -1,0 +1,11 @@
+# Zig CMake build output
+zig/build/
+
+# Zig build/cache directories, if created
+zig/zig-cache/
+zig/zig-out/
+
+# Local editor/macOS files
+.DS_Store
+.vscode/
+.idea/
